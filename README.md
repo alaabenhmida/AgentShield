@@ -10,10 +10,6 @@
 
 ## Install
 
-```bash
-pip install agentshield
-```
-
 For local development:
 
 ```bash
